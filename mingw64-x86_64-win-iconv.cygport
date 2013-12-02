@@ -3,9 +3,9 @@ inherit cross cmake
 
 NAME="mingw64-x86_64-win-iconv"
 VERSION=0.0.6
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
-SUMMARY="Iconv implemenation for Win32 toolchain"
+SUMMARY="Iconv implemenation for Win64 toolchain"
 DESCRIPTION="Iconv implementation which uses the Win32 API to convert."
 HOMEPAGE="http://code.google.com/p/win-iconv/"
 SRC_URI="http://win-iconv.googlecode.com/files/win-iconv-${VERSION}.tar.bz2"
